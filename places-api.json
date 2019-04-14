@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Izmir Boyoz Turu",
+		"url": "https://images.unsplash.com/photo-1528119376-83edc3310233?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+		"userItinerarySummary": "Gün 1: 9.00 - 13:30",
+		"tourPackageName": "Standard Paket"
+	},
+	{
+		"id": 2,
+		"name": "Istanbul Turu",
+		"url": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80",
+		"userItinerarySummary": "Gün 1: 14.00 - 15:30",
+		"tourPackageName": "Standard Paket"
+	},
+	{
+		"id": 3,
+		"name": "Kabadokya Turu",
+		"url": "https://images.unsplash.com/photo-1541884213736-be93518a8aea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+		"userItinerarySummary": "Gün 1: 16.00 - 17:00",
+		"tourPackageName": "Standard Paket"
+	},
+	{
+		"id": 4,
+		"name": "Pamukkale Turu",
+		"url": "https://images.unsplash.com/photo-1433854471391-5603c019de62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+		"userItinerarySummary": "Gün 2: 9.00 - 18:30",
+		"tourPackageName": "Premium Paketi"
+	}
+]
